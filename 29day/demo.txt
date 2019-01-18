@@ -1,0 +1,2 @@
+hello world
+今天学习IO流使我非常开心.
